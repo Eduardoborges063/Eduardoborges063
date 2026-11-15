@@ -53,7 +53,7 @@ const eduardo = {
 
 - **[ControleDeBar.Web](https://github.com/Eduardoborges063/ControleDeBar-Web)**: sistema web de controle de bar em C#
 - **[ControleDeMedicamentosweb](https://github.com/Eduardoborges063/ControleDeMedicamentosweb)**: controle de medicamentos em C#
-- **[GestaoDeEquipamentos-2.0](https://github.com/Eduardoborges063/GestaoDeEquipamentos_2025)**: gestão de equipamentos em C#
+- **[GestaoDeEquipamentos_2025](https://github.com/Eduardoborges063/GestaoDeEquipamentos_2025)**: gestão de equipamentos em C#
 - **[neuro-invest](https://github.com/Eduardoborges063/neuro-invest)**: plataforma fintech para organização de finanças pessoais
 - **[Challenge-JOVI](https://github.com/Eduardoborges063/Challenge-JOVI)**: Plataforma desenvolvida para a empresa Jovi, com o objetivo de inovar e aprimorar a experiência de uso das câmeras de smartphones.
 
