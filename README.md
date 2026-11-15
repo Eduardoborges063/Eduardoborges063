@@ -62,7 +62,7 @@ const eduardo = {
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eduardo-macedo-1a4667331/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://eduardoborges063.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFÓLIO-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://eduardoborges063.github.io/Portfolio"></a>
 <a href="mailto:1eduardomacedo2525@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/1eduardomacedo2525"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
