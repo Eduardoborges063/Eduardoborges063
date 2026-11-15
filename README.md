@@ -1,4 +1,4 @@
-<div align="center">
+<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/7a4fae1b-7acf-4ee4-ba84-60d0c4f83c02" /><div align="center">
 
 <img width="735" height="490" alt="banner" src="https://github.com/user-attachments/assets/41772b75-60d6-4da6-827c-14d0aeae7ad5" />
 
@@ -16,6 +16,8 @@ Sou o Eduardo, de Lages-SC, apaixonado por tecnologia e desenvolvimento web.
 Atualmente estou praticando **C#**, **aplicações web** e boas práticas de código, criando projetos como sistemas de controle (bar, medicamentos, equipamentos) e uma plataforma fintech.
 
 Meu objetivo: escrever código limpo, evoluir a cada projeto e me tornar um desenvolvedor de software completo.
+
+<img width="1152" height="2048" alt="download -01" src="https://github.com/user-attachments/assets/d3e1e0b1-0828-4550-a47a-c849fdd27a90" />
 
 ## 📂 Projetos em destaque
 
