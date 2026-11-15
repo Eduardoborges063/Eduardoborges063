@@ -1,23 +1,33 @@
-<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/7a4fae1b-7acf-4ee4-ba84-60d0c4f83c02" />
 <div align="center">
+
+<img src="https://github.com/user-attachments/assets/7a4fae1b-7acf-4ee4-ba84-60d0c4f83c02" alt="Banner" width="100%" />
 
 # Olá 👋, eu sou o Eduardo
 
 **Desenvolvedor C# | Desenvolvimento Web**
 
 </div>
+
 ---
 
 ## 🚀 Sobre mim
 
-Sou o Eduardo, de Lages-SC, apaixonado por tecnologia e desenvolvimento web.
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-Atualmente estou praticando **C#**, **aplicações web** e boas práticas de código, criando projetos como sistemas de controle (bar, medicamentos, equipamentos) e uma plataforma fintech.
+Sou apaixonado por tecnologia, inovação e pelo desenvolvimento contínuo de projetos próprios.
 
-Meu objetivo: escrever código limpo, evoluir a cada projeto e me tornar um desenvolvedor de software completo.
+Com um perfil disciplinado, criativo e sereno, assumo naturalmente a liderança de equipes, preferindo estar à frente das decisões para alinhar visões, inspirar colaboração e garantir que todos caminhem juntos rumo aos mesmos resultados.
 
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/e3a2aa77-0a11-4618-a934-22f3b0625f5b" alt="Imagem" width="250" />
+    </td>
+  </tr>
+</table>
 
-<img width="1200" height="2595" alt="54fb088e6aff6eec7338f5dcba01f5cd" src="https://github.com/user-attachments/assets/e3a2aa77-0a11-4618-a934-22f3b0625f5b" />
+---
 
 ## 📂 Projetos em destaque
 
@@ -26,6 +36,16 @@ Meu objetivo: escrever código limpo, evoluir a cada projeto e me tornar um dese
 - **[GestaoDeEquipamentos-2.0](https://github.com/Eduardoborges063/GestaoDeEquipamentos-2.0)**: gestão de equipamentos em C#
 - **[neuro-invest](https://github.com/Eduardoborges063/neuro-invest)**: plataforma fintech para organização de finanças pessoais
 
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,vscode" />
+</p>
+
+---
+
 ## 🤝 Conecte-se
 
 <p align="center">
@@ -33,11 +53,7 @@ Meu objetivo: escrever código limpo, evoluir a cada projeto e me tornar um dese
   <a href="https://eduardoborges063.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfólio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,vscode" />
-</p>
+---
 
 ## 📊 GitHub Stats
 
@@ -48,4 +64,4 @@ Meu objetivo: escrever código limpo, evoluir a cada projeto e me tornar um dese
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardoborges063&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardoborges063&theme=react-dark&hide_border=true" width="100%" />
