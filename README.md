@@ -1,8 +1,8 @@
-<div align="center">
+<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/e18c2cb5-c71e-4db7-a4bc-1470321797af" /><div align="center">
 
 <div align="center">
 
-<img src="banner.png" alt="Banner" width="100%" />
+<img width="735" height="490" alt="banner" src="https://github.com/user-attachments/assets/41772b75-60d6-4da6-827c-14d0aeae7ad5" />
 
 # Olá 👋, eu sou o Eduardo
 
