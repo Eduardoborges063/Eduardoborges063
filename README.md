@@ -13,18 +13,18 @@
 ## 🚀 Sobre mim
 
 <table>
-  <tr>
-    <td width="65%" valign="top">
+<tr>
+<td width="65%" valign="top">
 
 Sou apaixonado por tecnologia, inovação e pelo desenvolvimento contínuo de projetos próprios.
 
 Com um perfil disciplinado, criativo e sereno, assumo naturalmente a liderança de equipes, preferindo estar à frente das decisões para alinhar visões, inspirar colaboração e garantir que todos caminhem juntos rumo aos mesmos resultados.
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/e3a2aa77-0a11-4618-a934-22f3b0625f5b" alt="Imagem" width="250" />
-    </td>
-  </tr>
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://github.com/user-attachments/assets/e3a2aa77-0a11-4618-a934-22f3b0625f5b" alt="Imagem" width="250" />
+</td>
+</tr>
 </table>
 
 ---
