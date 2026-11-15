@@ -16,9 +16,13 @@
 <tr>
 <td width="60%" valign="top">
 
-Sou apaixonado por tecnologia, inovação e pelo desenvolvimento contínuo de projetos próprios.
+Sou um desenvolvedor em tecnologia,lógica de programação e integração com banco de dados. Tenho experiência prática em projetos pessoais, onde desenvolvo soluções do zero, aplicando conceitos como organização de código, validação de dados, uso de listas, estruturas de repetição e orientação a objetos.
 
-Com um perfil disciplinado, criativo e sereno, assumo naturalmente a liderança de equipes, preferindo estar à frente das decisões para alinhar visões, inspirar colaboração e garantir que todos caminhem juntos rumo aos mesmos resultados.
+Atualmente, finalizei o ensino médio e investindo ativamente no meu desenvolvimento técnico por meio de estudos contínuos e prática constante. Tenho conhecimentos em HTML, CSS e seus frameworks, voltados para a criação de interfaces .
+
+Possuo grande interesse em tecnologia, programação e inovação, com atenção especial ao impacto do comportamento humano, usabilidade e experiência do usuário. Também estudo conceitos de psicologia aplicada, buscando entender melhor como as pessoas interagem com sistemas, produtos digitais e processos de decisão.
+
+Sou uma pessoa disciplinada, curiosa e orientada a resultados, gosto de aprender na prática e evoluir gradualmente, sempre buscando melhorar ideias já existentes em vez de descartá-las. Tenho como objetivo crescer profissionalmente na área de tecnologia, com foco futuro em desenvolvimento de software, sistemas e oportunidades remotas, inclusive no mercado internacional.
 
 ```js
 const eduardo = {
