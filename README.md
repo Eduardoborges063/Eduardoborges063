@@ -109,7 +109,4 @@ const eduardo = {
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Eduardoborges063&theme=dark&hide_border=true" />
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardoborges063&theme=react-dark&hide_border=true" width="100%" />
-
 ---
