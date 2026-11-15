@@ -43,9 +43,6 @@ const eduardo = {
   }
 };
 ```
-
-> *"Escreva aqui uma frase que represente você."*
-
 </td>
 <td width="40%" align="center" valign="middle">
 <img src="https://github.com/user-attachments/assets/e3a2aa77-0a11-4618-a934-22f3b0625f5b" alt="Imagem" width="260" />
@@ -70,7 +67,7 @@ const eduardo = {
 <a href="https://www.linkedin.com/in/eduardo-macedo-1a4667331/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://eduardoborges063.github.io/Portfolio"><img src="https://img.shields.io/badge/PORTFÓLIO-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/SEU_USUARIO"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/1eduardomacedo2525"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
