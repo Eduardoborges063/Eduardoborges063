@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Eduardoborges063/Eduardoborges063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Eduardo%20Macedo&fontSize=40&fontColor=ffffff)
 
-Here are some ideas to get you started:
+# Olá 👋, eu sou o Eduardo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desenvolvedor C# | Desenvolvimento Web**
+
+Construindo aplicações organizadas, funcionais e com código limpo.
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Sou o Eduardo, de Lages-SC, apaixonado por tecnologia e desenvolvimento web.
+
+Atualmente estou praticando **C#**, **aplicações web** e boas práticas de código, criando projetos como sistemas de controle (bar, medicamentos, equipamentos) e uma plataforma fintech.
+
+Meu objetivo: escrever código limpo, evoluir a cada projeto e me tornar um desenvolvedor de software completo.
+
+## 📂 Projetos em destaque
+
+- **[ControleDeBar.Web](https://github.com/Eduardoborges063/ControleDeBar.Web)**: sistema web de controle de bar em C#
+- **[ControleDeMedicamentosweb](https://github.com/Eduardoborges063/ControleDeMedicamentosweb)**: controle de medicamentos em C#
+- **[GestaoDeEquipamentos-2.0](https://github.com/Eduardoborges063/GestaoDeEquipamentos-2.0)**: gestão de equipamentos em C#
+- **[neuro-invest](https://github.com/Eduardoborges063/neuro-invest)**: plataforma fintech para organização de finanças pessoais
+
+## 🤝 Conecte-se
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardo-macedo-1a4667331/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://eduardoborges063.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfólio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+</p>
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardoborges063&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Eduardoborges063&theme=dark&hide_border=true" />
+</p>
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardoborges063&theme=react-dark&hide_border=true" />
