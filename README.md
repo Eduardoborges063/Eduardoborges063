@@ -51,7 +51,7 @@ const eduardo = {
 
 ## 📂 Projetos em destaque
 
-- **[ControleDeBar.Web](https://github.com/Eduardoborges063/ControleDeBar-Web)**: sistema web de controle de bar em C#
+- **[ControleDeBar-Web](https://github.com/Eduardoborges063/ControleDeBar-Web)**: sistema web de controle de bar em C#
 - **[ControleDeMedicamentosweb](https://github.com/Eduardoborges063/ControleDeMedicamentosweb)**: controle de medicamentos em C#
 - **[GestaoDeEquipamentos_2025](https://github.com/Eduardoborges063/GestaoDeEquipamentos_2025)**: gestão de equipamentos em C#
 - **[neuro-invest](https://github.com/Eduardoborges063/neuro-invest)**: plataforma fintech para organização de finanças pessoais
