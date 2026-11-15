@@ -1,4 +1,5 @@
-<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/7a4fae1b-7acf-4ee4-ba84-60d0c4f83c02" /><div align="center">
+<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/7a4fae1b-7acf-4ee4-ba84-60d0c4f83c02" />
+<div align="center">
 
 # Olá 👋, eu sou o Eduardo
 
@@ -15,7 +16,8 @@ Atualmente estou praticando **C#**, **aplicações web** e boas práticas de có
 
 Meu objetivo: escrever código limpo, evoluir a cada projeto e me tornar um desenvolvedor de software completo.
 
-<img width="1152" height="2048" alt="download -01" src="https://github.com/user-attachments/assets/d3e1e0b1-0828-4550-a47a-c849fdd27a90" />
+
+<img width="1200" height="2595" alt="54fb088e6aff6eec7338f5dcba01f5cd" src="https://github.com/user-attachments/assets/e3a2aa77-0a11-4618-a934-22f3b0625f5b" />
 
 ## 📂 Projetos em destaque
 
