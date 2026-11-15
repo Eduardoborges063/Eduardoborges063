@@ -1,6 +1,14 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Eduardo%20Macedo&fontSize=40&fontColor=ffffff)
+<div align="center">
+
+<img src="banner.png" alt="Banner" width="100%" />
+
+# Olá 👋, eu sou o Eduardo
+
+**Desenvolvedor C# | Desenvolvimento Web**
+
+</div>
 
 # Olá 👋, eu sou o Eduardo
 
