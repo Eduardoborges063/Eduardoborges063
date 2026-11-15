@@ -16,14 +16,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Sou um desenvolvedor em tecnologia,lógica de programação e integração com banco de dados. Tenho experiência prática em projetos pessoais, onde desenvolvo soluções do zero, aplicando conceitos como organização de código, validação de dados, uso de listas, estruturas de repetição e orientação a objetos.
-
-Atualmente, finalizei o ensino médio e investindo ativamente no meu desenvolvimento técnico por meio de estudos contínuos e prática constante. Tenho conhecimentos em HTML, CSS e seus frameworks, voltados para a criação de interfaces .
-
-Possuo grande interesse em tecnologia, programação e inovação, com atenção especial ao impacto do comportamento humano, usabilidade e experiência do usuário. Também estudo conceitos de psicologia aplicada, buscando entender melhor como as pessoas interagem com sistemas, produtos digitais e processos de decisão.
-
-Sou uma pessoa disciplinada, curiosa e orientada a resultados, gosto de aprender na prática e evoluir gradualmente, sempre buscando melhorar ideias já existentes em vez de descartá-las. Tenho como objetivo crescer profissionalmente na área de tecnologia, com foco futuro em desenvolvimento de software, sistemas e oportunidades remotas, inclusive no mercado internacional.
-
+Sou apaixonado por tecnologia, inovação e pelo desenvolvimento de projetos próprios. Tenho um perfil disciplinado, criativo e sereno, com facilidade para assumir responsabilidades, colaborar em equipe e transformar ideias em soluções. Possuo conhecimentos em lógica de programação, orientação a objetos, integração com bancos de dados, HTML e CSS, além de experiência prática em projetos pessoais. Atualmente, curso Análise e Desenvolvimento de Sistemas e busco aprimorar constantemente minhas habilidades técnicas. Também tenho interesse em psicologia aplicada, usabilidade e experiência do usuário, buscando compreender como as pessoas interagem com sistemas e produtos digitais. Meu objetivo é crescer profissionalmente na área de tecnologia, com foco no desenvolvimento de software e oportunidades no mercado internacional.
 ```js
 const eduardo = {
   role: "Desenvolvedor C# | Web",
