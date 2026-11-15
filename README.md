@@ -112,9 +112,3 @@ const eduardo = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardoborges063&theme=react-dark&hide_border=true" width="100%" />
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Eduardoborges063&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
-</p>
