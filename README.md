@@ -1,7 +1,5 @@
 <img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/7a4fae1b-7acf-4ee4-ba84-60d0c4f83c02" /><div align="center">
 
-<img width="735" height="490" alt="banner" src="https://github.com/user-attachments/assets/41772b75-60d6-4da6-827c-14d0aeae7ad5" />
-
 # Olá 👋, eu sou o Eduardo
 
 **Desenvolvedor C# | Desenvolvimento Web**
