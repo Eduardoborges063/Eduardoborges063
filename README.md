@@ -9,15 +9,6 @@
 **Desenvolvedor C# | Desenvolvimento Web**
 
 </div>
-
-# Olá 👋, eu sou o Eduardo
-
-**Desenvolvedor C# | Desenvolvimento Web**
-
-Construindo aplicações organizadas, funcionais e com código limpo.
-
-</div>
-
 ---
 
 ## 🚀 Sobre mim
